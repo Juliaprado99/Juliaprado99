@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julia!
+# 👋 Hi, I’m Julia!
 - 👀 I’m interested in learn about JavaScript
 - 🌱 I’m currently learning the basic concepts of this language
 - 📫 How to reach me in Linkedin! https://www.linkedin.com/in/juliadoprado/
