@@ -1,6 +1,6 @@
 # 👋 Eu sou a Julia!
 - 🚀 Fã de carteirinha de Star Wars
-- 👀 No momento estou estudando JavaScript.
+- 👀 No momento estou estudando Python, mas já tenho uma boa base em Javascript (com HTML e CSS).
 - 🌱 Ainda sou iniciante, mas toda a minha evolução pode ser acompanhada por aqui.
 - 📫 Você pode me seguir no Linkedin! https://www.linkedin.com/in/juliadoprado/
 
